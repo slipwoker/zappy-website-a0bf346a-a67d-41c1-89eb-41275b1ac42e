@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yardwise-a0bf346a.zappy5.app/sitemap.xml

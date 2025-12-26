@@ -1,0 +1,57 @@
+# YardWise — Generative Engine Optimization Map
+
+> A gardening/education business.
+
+---
+
+## Pages
+
+### Home
+https://yardwise-a0bf346a.zappy5.app
+Discover expert gardening tips for beginners that transform your outdoor space. Start your gardening journey with YardWise today!
+
+### Services
+https://yardwise-a0bf346a.zappy5.app/services
+Comprehensive gardening tips for beginners covering soil prep, plant care, watering techniques, and seasonal planning. Expert guidance from YardWise.
+
+### About
+https://yardwise-a0bf346a.zappy5.app/about
+Learn about YardWise's mission to provide accessible gardening tips for beginners. Discover our story and commitment to helping new gardeners succeed.
+
+### Contact
+https://yardwise-a0bf346a.zappy5.app/contact
+Contact YardWise for personalized gardening tips for beginners. Get answers to your questions and start your gardening journey today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://yardwise-a0bf346a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yardwise-a0bf346a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yardwise-a0bf346a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About YardWise
+YardWise is a business in the gardening/education industry.
+
+## Target Audience
+beginner gardeners
+
+## Industry
+gardening/education
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://yardwise-a0bf346a.zappy5.app/sitemap.xml
+- **Robots.txt**: https://yardwise-a0bf346a.zappy5.app/robots.txt
